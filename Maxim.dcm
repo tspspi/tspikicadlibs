@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX710
+F https://datasheets.maximintegrated.com/en/ds/MAX710-MAX711.pdf
+$ENDCMP
+#
+$CMP MAX711
+F https://datasheets.maximintegrated.com/en/ds/MAX710-MAX711.pdf
+$ENDCMP
+#
+#End Doc Library
