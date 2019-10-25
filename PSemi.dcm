@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PE4259
+D SPDT High Power UltraCMOS 10 MHz-3 GHz RF Switch
+F https://www.psemi.com/pdf/datasheets/pe4259ds.pdf
+$ENDCMP
+#
+#End Doc Library
